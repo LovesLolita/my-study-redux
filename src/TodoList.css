@@ -1,0 +1,9 @@
+.Todo-list{
+  /* height: 100vh; */
+  display: flex;
+  justify-content: center;
+}
+.Todo-list-box{
+  transform: translateX(0%);
+  margin-top: 200px;
+}
